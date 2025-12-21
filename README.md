@@ -4,11 +4,6 @@
 
 Conscious Robotic Systems with Ethical Embodiment
 
-https://img.shields.io/badge/python-3.9+-blue.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/code%20style-black-000000.svg
-https://img.shields.io/badge/docs-latest-brightgreen.svg
-https://img.shields.io/discord/123456789?label=discord&logo=discord&logoColor=white
 
 Where Consciousness Meets Physical Embodiment
 From intelligent machines to conscious companions, from programmed responses to ethical considerations, from tools to partners in the physical world.
